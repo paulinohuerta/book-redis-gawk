@@ -1,6 +1,10 @@
 # An Introduction
 
-Writing a book can be daunting, learning the tools to write a book can be even more daunting. A quick google search will turn up a multitude of services, tools, apps and frameworks designed to write a book. Apps like; iBooks, Adobe Acrobat, inDesign Skyreader, Kindle Publisher etc. Formats like; PDF, ePUB, LaTeX....
+Redis is a lightweight and simple data structure server.
+It’s written in ANSI C, easy to install.
+Redis is capable to store your strings, lists, hashes, sets, and some other fancy structures, sharing them between processes.
+Redis works with an in-memory dataset.
+For instance, If I were writing a web app, I might cache session data, share data between different processes in real time, and other more sophisticated things.
 
 It's not so far fetched that a writer when faced with this mess of "solutions" might simply choose a trusty old
 typewriter or even pen and paper. Or he might get so caught up writing tools for writing that he never gets the time to
